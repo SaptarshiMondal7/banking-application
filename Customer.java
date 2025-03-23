@@ -5,8 +5,8 @@ public class Customer {
     private String userName;
     private String password;
     private BankAccount bankAccount;
-    public String getName(){
-        return name;
+    public String getuserName(){
+        return userName;
     }
     public BankAccount getBankAccount(){
         return bankAccount;
